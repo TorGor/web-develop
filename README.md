@@ -1,3 +1,13 @@
+![](http://blog.thankbabe.com/imgs/web-develop.png?v=333)
+
+[![协议](https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-%E8%BD%AC%E8%BD%BD%E7%94%B3%E6%98%8E-red.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+![stars](https://img.shields.io/github/stars/SFLAQiu/web-develop.svg)
+![forks](https://img.shields.io/github/forks/SFLAQiu/web-develop.svg)
+![issues](https://img.shields.io/github/issues/SFLAQiu/web-develop.svg)
+
+
+**更好的阅读访问：** [大话web开发](https://www.yuque.com/sflyq/web-develop)
+
 作为开发者，需要不断的对技术点进行总结，并且把它沉淀下来，写技术博文无疑是最好的方式，随着时间流逝，还可以作为自己每个阶段的技术认知轨迹进行回顾和反思，这里将会持续记录对WEB开发相关总结内容
 
 ---
@@ -24,6 +34,7 @@
     * [RabbitMQ入门与使用篇](https://github.com/SFLAQiu/web-develop/blob/master/RabbitMQ%E5%85%A5%E9%97%A8%E4%B8%8E%E4%BD%BF%E7%94%A8%E7%AF%87.md)
     * [大话GraphQL新手上车](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9DGraphQL%E6%96%B0%E6%89%8B%E4%B8%8A%E8%BD%A6.md)
 * 前端
+    * [前端汇总](https://github.com/SFLAQiu/web-develop/blob/master/%E5%89%8D%E7%AB%AF%E6%B1%87%E6%80%BB.md)
     * [大话WEB前端性能优化基本套路](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9DWEB%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%9F%BA%E6%9C%AC%E5%A5%97%E8%B7%AF.md)
 * 其他
     * [大话WEB开发必备神器](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9DWEB%E5%BC%80%E5%8F%91%E5%BF%85%E5%A4%87%E7%A5%9E%E5%99%A8.md)
